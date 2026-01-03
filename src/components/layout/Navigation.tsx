@@ -11,6 +11,7 @@ const DEFAULT_NAVIGATION = {
   brandIcon: 'zap',
   navItems: [
     { label: 'Hero', href: '#hero' },
+    { label: 'Features', href: '#features' },
     { label: 'Pricing', href: '#pricing' },
     { label: 'Contact', href: '#contact' },
   ],
